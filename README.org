@@ -5,5 +5,5 @@
 |---------+------------------------------------------------------|
 | source  | git:https://gitlab.common-lisp.net/cl-tar/cl-tar.git |
 | commit  | 7c6e07a                                              |
-| systems | cl-tar                                               |
+| systems | tar tar-cli tar-cli-asdf                             |
 |---------+------------------------------------------------------|
