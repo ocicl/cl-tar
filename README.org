@@ -2,9 +2,8 @@
 
 
 
-7c6e07a---------+-------------------------------------------|
-7c6e07a source  | git:https://gitlab.common-lisp.net/cl-tar/cl-tar.git   |
-7c6e07a commit  |   |
-7c6e07a systems | cl-tar |
-7c6e07a---------+-------------------------------------------|
-
+|---------+------------------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/cl-tar/cl-tar.git |
+| commit  | 7c6e07a                                              |
+| systems | cl-tar                                               |
+|---------+------------------------------------------------------|
